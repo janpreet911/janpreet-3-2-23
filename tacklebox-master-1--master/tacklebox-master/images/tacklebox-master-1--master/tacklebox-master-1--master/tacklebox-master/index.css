@@ -74,7 +74,7 @@ ul li a {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  margin-left: -110px;
+  margin-left: -104px;
   padding-bottom: 127px;
   margin-top: 710px;
 }
@@ -185,11 +185,16 @@ h3 {
   margin-top: 4rem;
   margin-left: 117px;
 }
+h3.s2-1h {
+  font-size: 40px;
+  line-height: 50px;
+  color: #ffffff;
+}
 
 .s2-1 {
   position: absolute;
   right: 4rem;
-  bottom: 13rem;
+  bottom: 7rem;
 }
 
 h4 {
@@ -198,8 +203,8 @@ h4 {
   line-height: 50px;
   color: rgb(255, 255, 255);
   text-align: center;
+  padding-bottom: 18px;
 }
-
 .btn-1 {
   width: 330px;
   height: 117px;
@@ -247,6 +252,10 @@ section.s3 {
   display: flex;
   justify-content: center;
   align-items: flex-start;
+}
+
+.circle-img {
+  padding-top: 37px;
 }
 
 .circle-heading {
