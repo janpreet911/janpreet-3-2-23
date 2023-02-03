@@ -338,6 +338,7 @@ td {
 .rectangle1 {
   margin-top: 65px;
   background-image: url('./images/Rectangle\ 8\ copy..');
+  background-color: #24262b;
 
   width: 1301px;
   height: 193px;
@@ -413,11 +414,11 @@ td {
 .rectangle2 {
   margin-top: 65px;
   background-image: url('./images/Rectangle\ 8\ copy.png');
-
   width: 1301px;
   height: 193px;
   display: flex;
   align-items: center;
+  background-color: #24262b;
 }
 
 #heading_rect1 {
